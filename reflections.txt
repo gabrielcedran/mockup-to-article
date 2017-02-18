@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+  1. I have learned that sometimes there are more than one tag that produces the same result. However, they have different meanings. I could mention the tags "<i>" and "<em>", "<b>" and "<strong"> and "<strike>" and "<del>".
+  2. The exercise itself was easy because it came with the texts already written and in the place that they should be.
+  3. There wasn't any very difficult thing to do.
+  4. Instead of using the tags that I already know, I tried to search if there was one that produces the same result but has a better meaning for that part of code. For instance, instead of using "strike" I found "del" would fit better in the context 
